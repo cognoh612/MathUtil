@@ -53,7 +53,8 @@ public class MathUtilTest {
     }
 }
 
-//Libraries -> add jar -> C:\Program Files\NetBeans 8.2\platform\modules\ext\...
+//Libraries -> add jar -> C:\Program Files\NetBeans 8.2\platform\modules\ext\junit-4.12.jar
+///////////////////////// C:\Program Files\NetBeans 8.2\platform\modules\ext\hamcrest-core-1.3.jar
 
 //mau xanh: neu tat ca case deu dung
 //mau do: neu chi mot thang do
@@ -65,7 +66,7 @@ public class MathUtilTest {
 //vi: 
 //nhiem vu goc ban dau: code ko co error ve cu phap, phai ra .war, .jar
 
-//minh nang cap: ocde ban con mau do, tuc la chay ko nhu ki vong
+//minh nang cap: code ban con mau do, tuc la chay ko nhu ki vong
 //to disable Clean and Built nha, de code ban mau xanh
 //hoac xoa mia file test di
 
